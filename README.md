@@ -50,43 +50,6 @@ Right now, I'm focused on advancing my skills in **Cloud technologies (AWS)** an
 
 ---
 
-### ✨ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Linux User Management</h3>
-      <div align="center">
-        <a href="https://github.com/Renan1919/linux-user-management" target="_blank">
-          <img src="URL_DO_SEU_SCREENSHOT_AQUI" alt="Project Screenshot" width="400">
-        </a>
-        <p>
-          <a href="https://github.com/Renan1919/linux-user-management" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github">
-          </a>
-        </p>
-        <p>Bash scripts to automate user, group, and permission management on Ubuntu systems.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Docker Provisioning Script</h3>
-      <div align="center">
-        <a href="https://github.com/Renan1919/primeiro-docker" target="_blank">
-           <img src="URL_DO_SEU_SCREENSHOT_AQUI" alt="Project Screenshot" width="400">
-        </a>
-        <p>
-          <a href="https://github.com/Renan1919/primeiro-docker" target="_blank">
-            <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github">
-          </a>
-        </p>
-        <p>A script for provisioning an Apache server within a Docker container using PHP.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Stats & Trophies
 
 <p align="center">
